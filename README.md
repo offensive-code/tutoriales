@@ -20,6 +20,9 @@ A continuación podrás ver nuestros cursos:
 * Stack BUffer Overflow en Linux x64: Aprende lo básico de la explotación del stack:  
 	- [Video Stack Buffer Overflow Linux x64](https://www.youtube.com/watch?v=i6cFCdgestI)  
 	- [Código del ejercicio](explotacion-binarios/01-stack-buffer-overflow-linux-x64)
+* Stack BUffer Overflow en Windows x86: Aprende lo básico de la explotación del stack:  
+	- [Video Stack Buffer Overflow Windows x86](https://www.youtube.com/watch?v=ZQT4fEq-_xc&t=688s)  
+	- [Código del ejercicio](explotacion-binarios/02-stack-buffer-overflow-win-x86)
 ---
 
 **Evasión**
